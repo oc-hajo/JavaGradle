@@ -1,4 +1,4 @@
-# Java Maven Example Project
+# Java Gradle (Groovy) Example Project
 
 Prerequisites:
 - Java installation (`java --version`)
